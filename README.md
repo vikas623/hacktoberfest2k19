@@ -1,2 +1,2 @@
 # hacktoberfest2k19
-eevnt at cb on hactoberfest2019
+event at cb on hactoberfest2019
